@@ -7,4 +7,4 @@ We study language-guided UAV navigation when the view changes and a target becom
 **Dataset.** The dataset covers six task categories with 3,190 training trajectories and 244 test trajectories. It pairs depth and continuous action supervision with task specific evaluation.
 
 - [Paper](main.pdf)
-- [Supplementary video](rememgeo_full_text_cover_updated_v2.mp4)
+- [Supplementary video](video_demo.mp4)
